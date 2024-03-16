@@ -28,3 +28,12 @@ Wireshark - https://www.wireshark.org/
 ![image](https://github.com/rharper4/AnalyzeTCPDump/assets/122825833/0cac5bd7-eaed-4951-920c-09426545ee5c)
 
 
+3. Select Graphical Install by pressing enter
+
+![image](https://github.com/rharper4/AnalyzeTCPDump/assets/122825833/6d433f04-82f6-4736-b762-2c337d3fdc58)
+
+4. Follow the remaining prompts to set up your virtual machine environment
+ 
+![image](https://github.com/rharper4/AnalyzeTCPDump/assets/122825833/aa4c0870-d520-4338-b8e6-47449e29e452)
+![image](https://github.com/rharper4/AnalyzeTCPDump/assets/122825833/061c43b0-61e0-4252-8255-9fa8f3690376)
+
